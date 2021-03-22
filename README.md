@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kristos44
-- 👀 I’m interested in professionally in java, backend ... python, ml, ai ... gcp; privately dadying, snowboarding, drifting, gaming :)
+- 👀 I’m interested in professionally java, backend ... python, ml, ai ... gcp; privately daddying, snowboarding, drifting, gaming :)
 - 🌱 I’m currently learning python, ml, ai .. gcp
 - 💞️ I’m looking to collaborate on something from my interest list
 - 📫 How to reach me kristos44@gmail.com
